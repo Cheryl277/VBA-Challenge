@@ -15,7 +15,3 @@ Add functionality to your script to return the stock with the "Greatest % increa
 
 2018:
 ![2018](https://github.com/Cheryl277/VBA-Challenge/assets/120348065/6cdab047-beae-44b3-a4b7-e8737d7f815a)
-2019: 
-![2019](https://github.com/Cheryl277/VBA-Challenge/assets/120348065/e8d4d02f-6c7e-421a-b804-28e58eb244f2)
-2020: 
-![2020](https://github.com/Cheryl277/VBA-Challenge/assets/120348065/5438ae4e-dd3a-4d50-aa2c-734ab7ca191d)
