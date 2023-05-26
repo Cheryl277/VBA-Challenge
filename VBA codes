@@ -1,6 +1,5 @@
 Sub stock_data():
 
-
 'Set all dimensions
 Dim ws As Worksheet
 Dim total As Double
